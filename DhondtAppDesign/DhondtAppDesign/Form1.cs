@@ -30,16 +30,8 @@ namespace DhondtAppDesign
             lfilenev.Height = 60;
             bok.Enabled = false;
             btorol.Enabled = false;
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
         }
 
         private void bfilekivalaszt_Click(object sender, EventArgs e) {
@@ -58,25 +50,6 @@ namespace DhondtAppDesign
             }
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void lszavszam_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void chart1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void chart2_Click(object sender, EventArgs e)
-        {
-            
-        }
         NumericUpDown nuszavszam = new NumericUpDown();
         NumericUpDown nunemszav = new NumericUpDown();
         NumericUpDown numandatumszam = new NumericUpDown();
@@ -244,11 +217,6 @@ namespace DhondtAppDesign
             dgvmatrix.Columns.Clear();
             bgeneral.Enabled = true;
             bfilekivalaszt.Enabled = true;
-        }
-
-        private void lnyertszavszam_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

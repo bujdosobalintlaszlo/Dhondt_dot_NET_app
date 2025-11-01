@@ -1,6 +1,3 @@
-10,543
-PartA 0 166986 5
-PartB 1 0 5
-PartC 1 86683 15
-PartD 1 0 10
-PartE 0 46331 5
+7,0
+PartA 1 7574 15
+PartB 1 22426 5

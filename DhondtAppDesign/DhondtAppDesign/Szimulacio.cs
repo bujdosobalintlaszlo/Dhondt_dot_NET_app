@@ -12,9 +12,6 @@ using System.Xml.Linq;
 
 namespace Dhondt
 {
-    /// <summary>
-    /// 
-    /// </summary>
     class Szimulacio
     {
         

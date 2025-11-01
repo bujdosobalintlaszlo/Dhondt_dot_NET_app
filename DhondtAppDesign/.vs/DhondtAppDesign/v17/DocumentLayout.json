@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\szamol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\szamol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\szimulacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\szimulacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|c:\\users\\komphone\\desktop\\dhontdotnet2025\\dhondtappdesign\\dhondtappdesign\\partok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A8E92-96A4-4749-8E4B-43BD58615C20}|DhondtAppDesign\\DhondtAppDesign.csproj|solutionrelative:dhondtappdesign\\partok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Form1.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.cs",
+              "RelativeToolTip": "DhondtAppDesign\\Form1.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAQwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:42:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.resx",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Form1.resx",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.resx",
+              "RelativeToolTip": "DhondtAppDesign\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-01T18:40:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.Designer.cs",
+              "RelativeToolTip": "DhondtAppDesign\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:40:27.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Form1.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Form1.cs [Design]",
+              "RelativeToolTip": "DhondtAppDesign\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:40:22.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Szamol.cs",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Szamol.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Szamol.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Szamol.cs",
+              "RelativeToolTip": "DhondtAppDesign\\Szamol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:40:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Szimulacio.cs",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Szimulacio.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Szimulacio.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Szimulacio.cs",
+              "RelativeToolTip": "DhondtAppDesign\\Szimulacio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:40:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Program.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Program.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Program.cs",
+              "RelativeToolTip": "DhondtAppDesign\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:40:07.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Partok.cs",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Partok.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Partok.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Partok.cs",
+              "RelativeToolTip": "DhondtAppDesign\\Partok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:40:04.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Part.cs",
+              "RelativeDocumentMoniker": "DhondtAppDesign\\Part.cs",
+              "ToolTip": "C:\\Users\\KomPhone\\Desktop\\dhontdotnet2025\\DhondtAppDesign\\DhondtAppDesign\\Part.cs",
+              "RelativeToolTip": "DhondtAppDesign\\Part.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:40:01.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

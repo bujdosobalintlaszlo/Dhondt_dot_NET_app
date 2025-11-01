@@ -28,3 +28,14 @@ C:\Users\bujdoso.balint\Desktop\DhondtAppDesign\DhondtAppDesign\obj\Debug\Dhondt
 C:\Users\bujdoso.balint\Desktop\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.csproj.CoreCompileInputs.cache
 C:\Users\bujdoso.balint\Desktop\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.exe
 C:\Users\bujdoso.balint\Desktop\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.pdb
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\bin\Debug\DhondtAppDesign.exe.config
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\bin\Debug\DhondtAppDesign.exe
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\bin\Debug\DhondtAppDesign.pdb
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.csproj.AssemblyReference.cache
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.exe.config
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.Form1.resources
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.Properties.Resources.resources
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.csproj.GenerateResource.cache
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.csproj.CoreCompileInputs.cache
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.exe
+C:\Users\KomPhone\Desktop\dhontdotnet2025\DhondtAppDesign\DhondtAppDesign\obj\Debug\DhondtAppDesign.pdb

@@ -107,7 +107,6 @@ namespace DhondtAppDesign
             this.lnev.Size = new System.Drawing.Size(169, 51);
             this.lnev.TabIndex = 2;
             this.lnev.Text = "D\'hondt";
-            this.lnev.Click += new System.EventHandler(this.label1_Click);
             // 
             // bfilekivalaszt
             // 
@@ -127,7 +126,6 @@ namespace DhondtAppDesign
             this.lfilenev.Size = new System.Drawing.Size(272, 26);
             this.lfilenev.TabIndex = 4;
             this.lfilenev.Text = "Üres";
-            this.lfilenev.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // bgeneral
             // 
@@ -168,7 +166,7 @@ namespace DhondtAppDesign
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(200, 100);
             this.panel1.TabIndex = 0;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
             // 
             // lszavazatszam
             // 
@@ -190,7 +188,6 @@ namespace DhondtAppDesign
             this.lszavszam.Size = new System.Drawing.Size(99, 17);
             this.lszavszam.TabIndex = 9;
             this.lszavszam.Text = "Szavazatszám";
-            this.lszavszam.Click += new System.EventHandler(this.lszavszam_Click);
             // 
             // panel2
             // 
@@ -356,7 +353,6 @@ namespace DhondtAppDesign
             this.lnyertszavszam.Size = new System.Drawing.Size(24, 25);
             this.lnyertszavszam.TabIndex = 10;
             this.lnyertszavszam.Text = "0";
-            this.lnyertszavszam.Click += new System.EventHandler(this.lnyertszavszam_Click);
             // 
             // panel6
             // 
@@ -431,7 +427,6 @@ namespace DhondtAppDesign
             title1.Name = "Title1";
             title1.Text = "Választási eredmény";
             this.cszavazatespart.Titles.Add(title1);
-            this.cszavazatespart.Click += new System.EventHandler(this.chart1_Click);
             // 
             // dgvmatrix
             // 
