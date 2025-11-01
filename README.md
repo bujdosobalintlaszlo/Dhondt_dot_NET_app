@@ -2,6 +2,14 @@
 In school we needed to implemet a system from the real world which involved a system with visualizable data. So we chose D’Hondt which is tied to the Europian parlament. Previously we wrote a console app for this
 so this task wasn't just about problemsolving but refactoring too. Fortunatelly we took this task with ease and got a 100% for our project.
 
+# Original project
+It was written for console. The main logic was implemented there and test were written for all classes, making sure of the correctnes of the program. We did manual tests as well.
+
+# Used technologies
+- C# (.NET Framework 4.8)
+- Windows Forms App (.NET Framework)
+- NUnit
+
 # How did we mannaged to compelte the task?
 When we developed this application, we had already worked as a team before.
 We knew each other’s strengths and weaknesses, which made collaboration and problem-solving much easier.
@@ -55,4 +63,3 @@ Step by step for the second one:
 <img width="558" height="254" alt="image" src="https://github.com/user-attachments/assets/c38f5a95-88d2-4db4-9e30-d5a2b8f7dda3" />
 
 2. Press "Generalas" and it will be displayed.
-
