@@ -1,6 +1,7 @@
-# Projects goal
-In school we needed to implemet a system from the real world which involved a system with visualizable data. So we chose D’Hondt which is tied to the Europian parlament. Previously we wrote a console app for this
-so this task wasn't just about problemsolving but refactoring too. Fortunatelly we took this task with ease and got a 100% for our project.
+# Project Goal
+For our school project, we were tasked with implementing a real-world system that involves data that can be visualized. We chose the D’Hondt method, a proportional representation system used for allocating seats in the European Parliament.
+Previously, we had implemented a console application to solve this problem, so this project was not just about problem-solving but also refactoring and improving the code for clarity and usability.
+By taking on this challenge, we were able to create a system that accurately simulates the D’Hondt allocation process and presents the results in a clear, visual format. This approach helped us gain a deeper understanding of proportional representation systems, and our work was graded with a 100% score for the project.
 
 # Original project
 It was written for console. The main logic was implemented there and test were written for all classes, making sure of the correctnes of the program. We did manual tests as well.
